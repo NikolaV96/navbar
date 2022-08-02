@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 1,
+        "title" : "Dashboard",
+        "icon" : "RiDashboardLine"
+    },
+    {
+        "id" : 2,
+        "title" : "Quotes",
+        "icon" : "RiBillLine"
+    },
+    {
+        "id" : 3,
+        "title" : "Bookings",
+        "icon" : "RiTruckLine"
+    },
+    {
+        "id" : 4,
+        "title" : "Billing",
+        "icon" : "RiBillLine"
+    },
+    {
+        "id" : 5,
+        "title" : "User Details",
+        "icon" : "HiOutlineUserGroup"
+    },
+    {
+        "id" : 6,
+        "title" : "Orders",
+        "icon" : "FiBox"
+    },
+    {
+        "id" : 7,
+        "title" : "Reports",
+        "icon" : "FiFileText"
+    },
+    {
+        "id" : 8,
+        "title" : "File Managment",
+        "icon" : "FiFolder"
+    }
+]
